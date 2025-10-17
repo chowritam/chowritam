@@ -6,7 +6,7 @@ I'm a CS student passionate about coding, gaming, and tech exploration.
 - **Tools:** Git, GitHub, VSCode
 
 ### Projects
-- [Project1]([link](https://github.com/chowritam/Mosecode_Translator))
+- [Mose_code Translator]([(https://github.com/chowritam/Mosecode_Translator)])
 - [Project2]([link](https://github.com/chowritam/HOSPITAL-MANAGEMENT-SYSTEM))
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritam123&show_icons=true&theme=radical)
