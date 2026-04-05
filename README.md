@@ -10,7 +10,7 @@ Building minimalist solutions and experimenting with cinematic visuals. Currentl
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | `C++`, `JavaScript`, `Node.js`, `Python` |
-| **Backend** | `Express`, `MongoDB`, `Stripe API` |
+| **Backend** | `Express`, `MongoDB`, `Stripe API`,`vercel` |
 | **Hardware** | `Arduino`, `IoT Systems` |
 
 
@@ -26,7 +26,6 @@ Building minimalist solutions and experimenting with cinematic visuals. Currentl
 ### 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=chowritam&show_icons=true&theme=tokyonight)
-### 🛠️ Languages & Tools
 ### 🛠️ Languages & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,c,js,nodejs,cpp,py,gcp,react,androidstudio,linux,raspberrypi,arduino)](https://skillicons.dev)
