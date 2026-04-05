@@ -27,6 +27,7 @@ Building minimalist solutions and experimenting with cinematic visuals. Currentl
 
 ![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=chowritam&show_icons=true&theme=tokyonight)
 ### 🛠️ Languages & Tools
+### 🛠️ Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
