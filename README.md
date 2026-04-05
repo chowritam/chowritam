@@ -25,7 +25,7 @@ Building minimalist solutions and experimenting with cinematic visuals. Currentl
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chowritam&show_icons=true&theme=tokyonight&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=chowritam&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chowritam&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
