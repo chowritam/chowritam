@@ -29,7 +29,7 @@ Building minimalist solutions and experimenting with cinematic visuals. Currentl
 ### 🛠️ Languages & Tools
 ### 🛠️ Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,py,gcp,react,androidstudio,linux,raspberrypi,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,c,js,nodejs,cpp,py,gcp,react,androidstudio,linux,raspberrypi,arduino)](https://skillicons.dev)
 
 ---
 
