@@ -1,7 +1,7 @@
 #  Hi, I'm Ritam
 
-### 💻 Full-Stack Developer & Creative Coder
-Building minimalist solutions and experimenting with cinematic visuals. Currently focused on building scalable applications and exploring the intersection of hardware and software.
+### 💻AI/ML & Robotics Developer
+Building intelligent systems and experimenting with robotics, embedded hardware, and AI. Currently focused on learning, building, and exploring the intersection of hardware, software, and intelligent systems.
 
 ---
 
