@@ -2,20 +2,22 @@
 
 ### 🤖 AI/ML & Robotics Developer
 
-Building intelligent systems and experimenting with robotics, embedded hardware, and software. I like turning ideas into working prototypes and exploring how AI can interact with the physical world.
+Building intelligent systems and experimenting with robotics, embedded hardware, CAD, and software. I like turning ideas into working prototypes and exploring how AI can interact with the physical world.
 
 ---
 
 ### 🛠️ The Toolkit
 
-| Category      | Technologies                                  |
-| :------------ | :-------------------------------------------- |
-| **Languages** | `Python`, `C++`, `C`, `JavaScript`            |
-| **AI / ML**   | `Machine Learning`, `Computer Vision`, `NLP`  |
-| **Robotics**  | `ROS 2`, `Gazebo`, `Arduino`, `Raspberry Pi`  |
-| **Embedded**  | `ESP32`, `IoT`, `Sensors`, `Embedded Systems` |
-| **Software**  | `React`, `Node.js`, `Express`, `MongoDB`      |
-| **Tools**     | `Linux`, `Git`, `SolidWorks`, `MATLAB`        |
+| Category         | Technologies                                               |
+| :--------------- | :--------------------------------------------------------- |
+| **Languages**    | `Python`, `C++`, `C`, `JavaScript`                         |
+| **AI / ML**      | `Machine Learning`, `Computer Vision`, `NLP`               |
+| **Robotics**     | `ROS 2`, `Gazebo`, `Arduino`, `Raspberry Pi`               |
+| **Embedded**     | `ESP32`, `IoT`, `Sensors`, `Embedded Systems`              |
+| **Software**     | `React`, `Node.js`, `Express`, `MongoDB`                   |
+| **CAD & Design** | `Fusion 360`, `3D CAD`, `3D Modeling`                      |
+| **Fabrication**  | `3D Printing`, `Rapid Prototyping`, `Hardware Prototyping` |
+| **Tools**        | `Linux`, `Git`, `MATLAB`                                   |
 
 ---
 
@@ -25,14 +27,15 @@ Building intelligent systems and experimenting with robotics, embedded hardware,
 * 🧠 AI/ML and computer vision
 * 🔌 Embedded systems and IoT
 * ⚙️ Hardware + software integration
-* 🧪 Building experimental prototypes
+* 🛠️ CAD, 3D printing, and rapid prototyping
+* 🧪 Building and testing physical prototypes
 * 👁️ Making machines understand and interact with the world
 
 ---
 
 ### 🌱 Currently Learning
 
-`ROS 2` · `Gazebo` · `OpenCV` · `PyTorch` · `Advanced C++` · `Robotics` · `Computer Vision`
+`ROS 2` · `Gazebo` · `OpenCV` · `PyTorch` · `Advanced C++` · `Robotics` · `Computer Vision` · `Fusion 360`
 
 ---
 
@@ -60,6 +63,8 @@ Building intelligent systems and experimenting with robotics, embedded hardware,
 **Learning:** `AI` · `Robotics` · `Embedded Systems` · `Computer Vision`
 
 **Building:** `Hardware + Software + Intelligent Systems`
+
+**Prototyping:** `CAD` · `3D Printing` · `Rapid Prototyping`
 
 **Status:** `Available for collaborative projects`
 
