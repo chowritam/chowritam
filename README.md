@@ -1,36 +1,53 @@
-#  Hi, I'm Ritam
+# Hi, I'm Ritam
 
-### 💻AI/ML & Robotics Developer
-Building intelligent systems and experimenting with robotics, embedded hardware, and AI. Currently focused on learning, building, and exploring the intersection of hardware, software, and intelligent systems.
+### 🤖 AI/ML & Robotics Developer
+
+Building intelligent systems and experimenting with robotics, embedded hardware, and software. I like turning ideas into working prototypes and exploring how AI can interact with the physical world.
 
 ---
 
 ### 🛠️ The Toolkit
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `C++`, `JavaScript`, `Node.js`, `Python` |
-| **Backend** | `Express`, `MongoDB`, `Stripe API`,`vercel` |
-| **Hardware** | `Arduino`, `IoT Systems` |
-
+| Category      | Technologies                                  |
+| :------------ | :-------------------------------------------- |
+| **Languages** | `Python`, `C++`, `C`, `JavaScript`            |
+| **AI / ML**   | `Machine Learning`, `Computer Vision`, `NLP`  |
+| **Robotics**  | `ROS 2`, `Gazebo`, `Arduino`, `Raspberry Pi`  |
+| **Embedded**  | `ESP32`, `IoT`, `Sensors`, `Embedded Systems` |
+| **Software**  | `React`, `Node.js`, `Express`, `MongoDB`      |
+| **Tools**     | `Linux`, `Git`, `SolidWorks`, `MATLAB`        |
 
 ---
 
-### 🚀 Recent Project Highlight
-**[Rent-App]** A full-stack rental platform built with the Node.js ecosystem. 
-* **Tech:** Express, MongoDB, Stripe.
-* **Vibe:** Functional, clean, and secure.
+### 🧠 What I'm Into
+
+* 🤖 Robotics and autonomous systems
+* 🧠 AI/ML and computer vision
+* 🔌 Embedded systems and IoT
+* ⚙️ Hardware + software integration
+* 🧪 Building experimental prototypes
+* 👁️ Making machines understand and interact with the world
+
+---
+
+### 🌱 Currently Learning
+
+`ROS 2` · `Gazebo` · `OpenCV` · `PyTorch` · `Advanced C++` · `Robotics` · `Computer Vision`
 
 ---
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=chowritam&show_icons=true&theme=tokyonight)
-### 🛠️ Languages & Tools
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,c,js,nodejs,cpp,py,gcp,react,androidstudio,linux,raspberrypi,arduino)](https://skillicons.dev)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=chowritam\&show_icons=true\&theme=tokyonight)
 
 ---
+
+### 🛠️ Languages & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,js,react,nodejs,linux,raspberrypi,arduino)](https://skillicons.dev)
+
+---
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/chowritam/chowritam/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation eating chowritam's contribution graph (dark)" />
 <img src="https://raw.githubusercontent.com/chowritam/chowritam/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation eating chowritam's contribution graph (light)" />
@@ -39,10 +56,15 @@ Building intelligent systems and experimenting with robotics, embedded hardware,
 ---
 
 ### 🌑 Connection Points
-* **Learning:** Advanced C++ optimizations and smart-home integration.
-* **Status:** `Available for collaborative projects`
+
+**Learning:** `AI` · `Robotics` · `Embedded Systems` · `Computer Vision`
+
+**Building:** `Hardware + Software + Intelligent Systems`
+
+**Status:** `Available for collaborative projects`
 
 ---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" />
 </p>
