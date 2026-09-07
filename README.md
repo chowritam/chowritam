@@ -31,6 +31,11 @@ Building minimalist solutions and experimenting with cinematic visuals. Currentl
 [![My Skills](https://skillicons.dev/icons?i=vscode,c,js,nodejs,cpp,py,gcp,react,androidstudio,linux,raspberrypi,arduino)](https://skillicons.dev)
 
 ---
+<div align="center">
+<img src="https://raw.githubusercontent.com/chowritam/chowritam/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation eating chowritam's contribution graph (dark)" />
+<img src="https://raw.githubusercontent.com/chowritam/chowritam/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation eating chowritam's contribution graph (light)" />
+</div>
+---
 
 ### 🌑 Connection Points
 * **Learning:** Advanced C++ optimizations and smart-home integration.
